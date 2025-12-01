@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Polygonal Mind/Assets/2210_MedievalFairAssetPack/2210_MedievalFair.unity
     guid: c1d317be3f4ad6443ad2030bcab10f06
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main.unity
     guid: 5a966a9ea5d83497ea839d4d5499a243
   m_configObjects:
