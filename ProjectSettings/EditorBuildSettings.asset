@@ -5,8 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+<<<<<<< HEAD
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
+=======
+  - enabled: 1
+    path: Assets/PREBUILTSCENES/SampleScene.unity
+>>>>>>> 512b579956e1129acf35c5764b29d51932c3af4d
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 0
     path: Assets/Polygonal Mind/Assets/2210_MedievalFairAssetPack/2210_MedievalFair.unity

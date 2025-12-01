@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/MetaXR.meta
 guid: dfa7072e435564779a3b49abe54815f6
 folderAsset: yes
+========
+guid: 7b10de65b1da44717b0b5f124d28d39f
+>>>>>>>> 512b579956e1129acf35c5764b29d51932c3af4d:Assets/Scenes/BreeScene.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
